@@ -76,9 +76,9 @@
     "url": "$DOCKER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "docker",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 774,
     "timeMonth": 777,
     "timeYear": 777,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-18": 0
+    }
   },
   {
     "name": "Sandbox",
