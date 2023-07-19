@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 160,
-    "timeDay": 51,
-    "timeWeek": 155,
-    "timeMonth": 160,
-    "timeYear": 160,
+    "time": 161,
+    "timeDay": 208,
+    "timeWeek": 167,
+    "timeMonth": 161,
+    "timeYear": 161,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 960,
-    "timeDay": 929,
-    "timeWeek": 1026,
-    "timeMonth": 960,
-    "timeYear": 960,
+    "time": 955,
+    "timeDay": 837,
+    "timeWeek": 1005,
+    "timeMonth": 955,
+    "timeYear": 955,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 928,
-    "timeDay": 920,
-    "timeWeek": 991,
-    "timeMonth": 928,
-    "timeYear": 928,
+    "time": 924,
+    "timeDay": 827,
+    "timeWeek": 967,
+    "timeMonth": 924,
+    "timeYear": 924,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 874,
-    "timeDay": 706,
-    "timeWeek": 942,
-    "timeMonth": 874,
-    "timeYear": 874,
+    "time": 865,
+    "timeDay": 625,
+    "timeWeek": 884,
+    "timeMonth": 865,
+    "timeYear": 865,
     "dailyMinutesDown": {}
   },
   {
@@ -77,18 +77,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "docker",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.32%",
+    "uptimeDay": "58.55%",
+    "uptimeWeek": "94.08%",
+    "uptimeMonth": "98.32%",
+    "uptimeYear": "98.32%",
     "time": 777,
-    "timeDay": 873,
-    "timeWeek": 774,
+    "timeDay": 0,
+    "timeWeek": 773,
     "timeMonth": 777,
     "timeYear": 777,
     "dailyMinutesDown": {
-      "2023-07-18": 0
+      "2023-07-19": 167,
+      "2023-07-18": 429
     }
   },
   {
@@ -102,11 +103,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 447,
-    "timeDay": 519,
-    "timeWeek": 518,
-    "timeMonth": 447,
-    "timeYear": 447,
+    "time": 442,
+    "timeDay": 311,
+    "timeWeek": 502,
+    "timeMonth": 442,
+    "timeYear": 442,
     "dailyMinutesDown": {}
   }
 ]
