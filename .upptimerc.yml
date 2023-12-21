@@ -5,16 +5,12 @@ repo: status
 sites:
   - name: Personal
     url: $PERSONAL
-  - name: Yunohost (Primary)
-    url: $YUNOHOST_PRIMARY
-  - name: Yunohost (Secondary)
-    url: $YUNOHOST_SECONDARY
+  - name: Yunohost
+    url: $YUNOHOST
   - name: Flow
     url: $FLOW
   - name: Docker
     url: $DOCKER
-  - name: Sandbox
-    url: $SANDBOX
 
 status-website:
   cname: status.sant.sh
