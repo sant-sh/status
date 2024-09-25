@@ -7,8 +7,8 @@ sites:
     url: $PERSONAL
   - name: Yunohost
     url: $YUNOHOST
-  - name: Flow
-    url: $FLOW
+  - name: HomeLab
+    url: $HOMELAB
   - name: Docker
     url: $DOCKER
 
