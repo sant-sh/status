@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 182,
-    "timeDay": 208,
-    "timeWeek": 187,
-    "timeMonth": 192,
+    "timeDay": 161,
+    "timeWeek": 177,
+    "timeMonth": 193,
     "timeYear": 203,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.69%",
     "time": 653,
-    "timeDay": 756,
-    "timeWeek": 746,
-    "timeMonth": 763,
-    "timeYear": 677,
+    "timeDay": 725,
+    "timeWeek": 761,
+    "timeMonth": 767,
+    "timeYear": 678,
     "dailyMinutesDown": {
       "2024-11-10": 438,
       "2024-11-09": 1440,
@@ -42,8 +42,7 @@
       "2024-11-05": 1440,
       "2024-11-04": 1440,
       "2024-11-03": 1440,
-      "2024-11-02": 1052,
-      "2024-04-24": 561
+      "2024-11-02": 1052
     }
   },
   {
@@ -63,7 +62,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-23": 109,
+      "2025-04-24": 109,
+      "2025-04-23": 1440,
       "2025-04-22": 1440,
       "2025-04-21": 1440,
       "2025-04-20": 1440,
@@ -282,15 +282,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "docker",
     "status": "up",
-    "uptime": "86.44%",
+    "uptime": "86.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "84.40%",
     "time": 783,
-    "timeDay": 713,
-    "timeWeek": 755,
-    "timeMonth": 746,
+    "timeDay": 822,
+    "timeWeek": 765,
+    "timeMonth": 748,
     "timeYear": 783,
     "dailyMinutesDown": {
       "2025-01-03": 1072,
