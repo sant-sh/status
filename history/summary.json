@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 202,
-    "timeDay": 267,
-    "timeWeek": 290,
-    "timeMonth": 246,
+    "timeDay": 225,
+    "timeWeek": 283,
+    "timeMonth": 243,
     "timeYear": 203,
     "dailyMinutesDown": {}
   },
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "yunohost",
     "status": "up",
-    "uptime": "98.55%",
+    "uptime": "98.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.80%",
     "time": 716,
-    "timeDay": 792,
-    "timeWeek": 1391,
-    "timeMonth": 934,
-    "timeYear": 755,
+    "timeDay": 1100,
+    "timeWeek": 878,
+    "timeMonth": 939,
+    "timeYear": 757,
     "dailyMinutesDown": {
       "2024-11-10": 438,
       "2024-11-09": 1440,
@@ -62,7 +62,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-10": 105,
+      "2025-10-11": 100,
+      "2025-10-10": 1440,
       "2025-10-09": 1440,
       "2025-10-08": 1440,
       "2025-10-07": 1440,
@@ -425,8 +426,7 @@
       "2024-10-15": 1440,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
-      "2024-10-12": 1440,
-      "2024-10-11": 1440
+      "2024-10-12": 1440
     }
   },
   {
@@ -435,15 +435,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "docker",
     "status": "up",
-    "uptime": "88.11%",
+    "uptime": "88.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "95.15%",
+    "uptimeYear": "95.42%",
     "time": 786,
-    "timeDay": 876,
-    "timeWeek": 903,
-    "timeMonth": 897,
+    "timeDay": 978,
+    "timeWeek": 913,
+    "timeMonth": 903,
     "timeYear": 785,
     "dailyMinutesDown": {
       "2025-09-21": 23,
@@ -465,8 +465,7 @@
       "2024-10-15": 1440,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
-      "2024-10-12": 1440,
-      "2024-10-11": 1440
+      "2024-10-12": 1440
     }
   }
 ]
