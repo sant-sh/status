@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 203,
-    "timeDay": 68,
-    "timeWeek": 226,
-    "timeMonth": 242,
+    "time": 202,
+    "timeDay": 67,
+    "timeWeek": 197,
+    "timeMonth": 237,
     "timeYear": 203,
     "dailyMinutesDown": {}
   },
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "yunohost",
     "status": "up",
-    "uptime": "98.56%",
+    "uptime": "98.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.80%",
     "time": 718,
-    "timeDay": 629,
-    "timeWeek": 875,
-    "timeMonth": 939,
-    "timeYear": 760,
+    "timeDay": 632,
+    "timeWeek": 833,
+    "timeMonth": 933,
+    "timeYear": 761,
     "dailyMinutesDown": {
       "2024-11-10": 438,
       "2024-11-09": 1440,
@@ -62,7 +62,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-15": 108,
+      "2025-10-16": 107,
+      "2025-10-15": 1440,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
@@ -425,8 +426,7 @@
       "2024-10-20": 1440,
       "2024-10-19": 1440,
       "2024-10-18": 1440,
-      "2024-10-17": 1440,
-      "2024-10-16": 1440
+      "2024-10-17": 1440
     }
   },
   {
@@ -435,15 +435,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "docker",
     "status": "up",
-    "uptime": "88.18%",
+    "uptime": "88.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "96.52%",
-    "time": 787,
-    "timeDay": 1071,
-    "timeWeek": 925,
-    "timeMonth": 912,
+    "uptimeYear": "96.80%",
+    "time": 786,
+    "timeDay": 794,
+    "timeWeek": 907,
+    "timeMonth": 909,
     "timeYear": 787,
     "dailyMinutesDown": {
       "2025-09-21": 23,
@@ -460,8 +460,7 @@
       "2025-06-03": 936,
       "2025-01-03": 1072,
       "2025-01-02": 388,
-      "2024-10-17": 991,
-      "2024-10-16": 1440
+      "2024-10-17": 991
     }
   }
 ]
