@@ -8,7 +8,9 @@ sites:
   - name: Yunohost
     url: $YUNOHOST
   - name: HomeLab
-    url: $TEST
+    url: $HOME
+    expectedStatusCodes:
+      - 200
   - name: Docker
     url: $DOCKER
 
