@@ -8,7 +8,7 @@ sites:
   - name: Yunohost
     url: $YUNOHOST
   - name: HomeLab
-    url: $HOMELAB
+    url: https://google.com
   - name: Docker
     url: $DOCKER
 
