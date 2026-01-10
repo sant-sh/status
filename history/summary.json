@@ -13,7 +13,7 @@
     "time": 209,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 210,
+    "timeMonth": 209,
     "timeYear": 202,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 750,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 818,
+    "timeMonth": 832,
     "timeYear": 770,
     "dailyMinutesDown": {}
   },
@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "home-lab",
     "status": "down",
-    "uptime": "2.87%",
+    "uptime": "3.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "42.55%",
-    "uptimeYear": "3.70%",
+    "uptimeMonth": "45.83%",
+    "uptimeYear": "3.98%",
     "time": 418,
     "timeDay": 0,
     "timeWeek": 0,
@@ -401,8 +401,7 @@
       "2025-01-14": 1440,
       "2025-01-13": 1440,
       "2025-01-12": 1440,
-      "2025-01-11": 1440,
-      "2025-01-10": 1440
+      "2025-01-11": 1440
     }
   },
   {
@@ -411,7 +410,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "docker",
     "status": "down",
-    "uptime": "89.27%",
+    "uptime": "89.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -420,7 +419,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 789,
-    "timeYear": 795,
+    "timeYear": 794,
     "dailyMinutesDown": {
       "2025-09-21": 23,
       "2025-09-20": 39,
