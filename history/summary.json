@@ -13,7 +13,7 @@
     "time": 209,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 198,
+    "timeMonth": 212,
     "timeYear": 204,
     "dailyMinutesDown": {}
   },
@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "yunohost",
     "status": "down",
-    "uptime": "98.74%",
+    "uptime": "98.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -31,8 +31,8 @@
     "time": 750,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 855,
-    "timeYear": 771,
+    "timeMonth": 850,
+    "timeYear": 772,
     "dailyMinutesDown": {}
   },
   {
@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "home-lab",
     "status": "down",
-    "uptime": "4.70%",
+    "uptime": "4.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "72.15%",
-    "uptimeYear": "6.17%",
+    "uptimeMonth": "75.43%",
+    "uptimeYear": "6.45%",
     "time": 418,
     "timeDay": 0,
     "timeWeek": 0,
@@ -392,8 +392,7 @@
       "2025-01-23": 1440,
       "2025-01-22": 1440,
       "2025-01-21": 1440,
-      "2025-01-20": 1440,
-      "2025-01-19": 1440
+      "2025-01-20": 1440
     }
   },
   {
@@ -402,7 +401,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "docker",
     "status": "down",
-    "uptime": "89.38%",
+    "uptime": "89.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -410,7 +409,7 @@
     "time": 788,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 776,
+    "timeMonth": 784,
     "timeYear": 795,
     "dailyMinutesDown": {
       "2025-09-21": 23,
