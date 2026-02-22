@@ -14,7 +14,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 205,
+    "timeYear": 204,
     "dailyMinutesDown": {}
   },
   {
@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "home-lab",
     "status": "down",
-    "uptime": "11.01%",
+    "uptime": "11.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "15.49%",
+    "uptimeYear": "15.77%",
     "time": 418,
     "timeDay": 0,
     "timeWeek": 0,
@@ -358,8 +358,7 @@
       "2025-02-26": 1440,
       "2025-02-25": 1440,
       "2025-02-24": 1440,
-      "2025-02-23": 1440,
-      "2025-02-22": 1440
+      "2025-02-23": 1440
     }
   },
   {
@@ -368,7 +367,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "docker",
     "status": "down",
-    "uptime": "89.75%",
+    "uptime": "89.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
