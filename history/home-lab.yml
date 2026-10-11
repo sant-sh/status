@@ -1,7 +1,7 @@
 url: $HOME
-status: down
-code: 403
-responseTime: 290
-lastUpdated: 2025-12-26T14:02:25.655Z
+status: up
+code: 200
+responseTime: 893
+lastUpdated: 2026-10-11T06:17:10.942Z
 startTime: 2024-09-25T10:12:45.978Z
 generator: Upptime <https://github.com/upptime/upptime>
