@@ -16,10 +16,14 @@ sites:
 
 status-website:
   cname: status.sant.sh
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Server Health Status
-  introTitle: "Personal monitoring served by **Santosh** "
-  introMessage: Internal & External Site Monitoring
+  logoUrl: /upptime-icon.svg
+  name: Santosh Status
+  introTitle: Infrastructure status
+  introMessage: Availability, response times, and incident history for my services.
+  theme: dark
+  links:
+    - rel: stylesheet
+      href: /status-theme.css
   navbar:
     - title: Status
       href: /
