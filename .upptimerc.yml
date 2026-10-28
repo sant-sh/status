@@ -16,14 +16,14 @@ sites:
 
 status-website:
   cname: status.sant.sh
-  logoUrl: /upptime-icon.svg
+  logoUrl: https://status.sant.sh/upptime-icon.svg
   name: Santosh Status
   introTitle: Infrastructure status
   introMessage: Availability, response times, and incident history for my services.
   theme: dark
   links:
     - rel: stylesheet
-      href: /status-theme.css
+      href: https://status.sant.sh/status-theme.css
   navbar:
     - title: Status
       href: /
